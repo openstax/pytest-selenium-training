@@ -5,3 +5,5 @@
 # test report
 report.html
 assets/
+/tests/.pytest_cache/
+tests/__pycache__/
