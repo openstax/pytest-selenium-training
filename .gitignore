@@ -1,9 +1,7 @@
 /.idea
-/.pytest_cache/
-/__pycache__/
+.pytest_cache
+__pycache__
 
 # test report
 report.html
 assets/
-/tests/.pytest_cache/
-tests/__pycache__/
